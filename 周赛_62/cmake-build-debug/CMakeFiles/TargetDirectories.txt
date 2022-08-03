@@ -1,0 +1,6 @@
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/b.dir
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/c.dir
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/a.dir
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/cmake-build-debug/CMakeFiles/_62.dir

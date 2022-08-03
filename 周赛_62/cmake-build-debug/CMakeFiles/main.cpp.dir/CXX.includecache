@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/A.cpp
+bits/stdc++.h
+-
+
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/B.cpp
+bits/stdc++.h
+-
+
+/Users/xiangruiyu/CLionProjects/acwing_week/周赛_62/C.cpp
+iostream
+-
+
